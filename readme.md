@@ -1,4 +1,4 @@
-### Game Title: *Glitchtown*
+### Game Title: Glitchtown
 
 **Game Type**: Interactive Mystery Thriller
 
